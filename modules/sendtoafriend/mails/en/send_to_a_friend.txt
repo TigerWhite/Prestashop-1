@@ -1,10 +1,7 @@
+
 [{shop_url}] 
 
 Hi {name},
-
-
-{customer} has sent you a link to a product that (s)he thinks may
-interest you. 
 
 Click here to view this item: {product}
 [{product_link}] 
